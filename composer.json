@@ -1,0 +1,7 @@
+{
+  "name": "blackout314/adfly_api",
+  "description": "An AdFly Api Wrapper",
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
