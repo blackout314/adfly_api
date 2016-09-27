@@ -1,5 +1,5 @@
 # adfly_api
----
+
 [adfly](http://adf.ly/?id=6900742) api wrapper | [payout](https://adf.ly/rates)
 
 ```php
