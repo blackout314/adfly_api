@@ -1,6 +1,6 @@
 # adfly_api
 
-adfly api wrapper [link](http://adf.ly/?id=6900742) | [payout](https://adf.ly/rates)
+[adfly](http://bitts.in/Z9c) api wrapper | [payout](https://adf.ly/rates)
 
 ```php
 $KEY    = 'YOUR-KEY';
